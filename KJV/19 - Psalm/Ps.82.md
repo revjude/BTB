@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H4210">A Psalm</w> <w lemma="strong:H0623">of Asaph<small><small>[^2]</small></small></w>.
+A Psalm of Asaph<small><small>[^2]</small></small>.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.82.1|1]]**<span class="endversemarker">]</span> God<small><small>[^3]</small></small> standeth in the congregation of the mighty; he judgeth among the gods<small><small>[^4]</small></small>. <span class="startversemarker">[</span>**[[Ps.82.2|2]]**<span class="endversemarker">]</span> How<small><small>[^5]</small></small> long will ye judge<small><small>[^6]</small></small> unjustly, and accept<small><small>[^7]</small></small> the persons of the wicked? Selah. <span class="startversemarker">[</span>**[[Ps.82.3|3]]**<span class="endversemarker">]</span> Defend<small><small>[^8]</small></small> the poor and fatherless: do<small><small>[^9]</small></small> justice to the afflicted and needy. <span class="startversemarker">[</span>**[[Ps.82.4|4]]**<span class="endversemarker">]</span> Deliver<small><small>[^10]</small></small> the poor and needy: rid<small><small>[^11]</small></small> \[them\] out of the hand of the wicked. <span class="startversemarker">[</span>**[[Ps.82.5|5]]**<span class="endversemarker">]</span> They<small><small>[^12]</small></small> know not<small><small>[^13]</small></small>, neither will they understand; they walk<small><small>[^14]</small></small> on in darkness: all the<small><small>[^15]</small></small> foundations of the earth are out of course<small><small>[^16]</small></small>. <span class="startversemarker">[</span>**[[Ps.82.6|6]]**<span class="endversemarker">]</span> I have said, Ye \[are\] gods; and all of you \[are\] children of the most High.<small><small>[^17]</small></small> <span class="startversemarker">[</span>**[[Ps.82.7|7]]**<span class="endversemarker">]</span> But<small><small>[^18]</small></small> ye shall die like men<small><small>[^19]</small></small>, and fall<small><small>[^20]</small></small> like one of the princes. <span class="startversemarker">[</span>**[[Ps.82.8|8]]**<span class="endversemarker">]</span> Arise<small><small>[^21]</small></small>, O God, judge the earth: for thou<small><small>[^22]</small></small> shalt inherit all nations. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81|<< Psalm 81]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83|Psalm 83 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.82|Ps 82:1]], The psalmist, having exhorted the judges, [[Ps.82|Ps 82:5]], and reproved their negligence, [[Ps.82|Ps 82:8]], prays God to judge.  Some refer this psalm to the time of David, and others to that of Hezekiah; but it is more probable that it was composed when Jehoshaphat reformed the courts throughout his kingdom. [[2Chr.19|2Chr 19:6]], [[2Chr.19|2Chr 19:7]]
 
 [^2]: or, for Asaph
 

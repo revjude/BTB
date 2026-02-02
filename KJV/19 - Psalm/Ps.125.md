@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H7892">A Song</w> <w lemma="strong:H4609">of degrees</w>.
+A Song of degrees.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.125.1|1]]**<span class="endversemarker">]</span> They that trust<small><small>[^2]</small></small> in the <span class="smallcaps">Lord</span> \[shall be\] as mount<small><small>[^3]</small></small> Zion, \[which\] cannot be removed, \[but\] abideth<small><small>[^4]</small></small> for ever. <span class="startversemarker">[</span>**[[Ps.125.2|2]]**<span class="endversemarker">]</span> \[As\] the mountains<small><small>[^5]</small></small> \[are\] round about Jerusalem, so the <span class="smallcaps">Lord<small><small>[^6]</small></small></span> \[is\] round about his people from henceforth even for ever. <span class="startversemarker">[</span>**[[Ps.125.3|3]]**<span class="endversemarker">]</span> For the rod<small><small>[^7]</small></small> of the wicked<small><small>[^8]</small></small> shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity. <span class="startversemarker">[</span>**[[Ps.125.4|4]]**<span class="endversemarker">]</span> Do good<small><small>[^9]</small></small>, O <span class="smallcaps">Lord</span>, unto \[those that be\] good, and to \[them that are\] upright<small><small>[^10]</small></small> in their hearts. <span class="startversemarker">[</span>**[[Ps.125.5|5]]**<span class="endversemarker">]</span> As for such<small><small>[^11]</small></small> as turn aside unto their crooked<small><small>[^12]</small></small> ways, the <span class="smallcaps">Lord</span> shall lead them forth with the workers<small><small>[^13]</small></small> of iniquity: \[but\] peace<small><small>[^14]</small></small> \[shall be\] upon Israel. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.124|<< Psalm 124]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.126|Psalm 126 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.125|Ps 125:1]], The safety of such as trust in God; [[Ps.125|Ps 125:4]], A prayer for the godly, and against the wicked.  [[Ps.120|Ps 120:1]], [[Ps.121|Ps 121:1]], [[Ps.122|Ps 122:1]], [[Ps.123|Ps 123:1]], [[Ps.124|Ps 124:1]] *titles
 
 [^2]: [[Ps.27|Ps 27:1]], [[Ps.25|Ps 25:2]], [[Ps.25|Ps 25:8]], [[Ps.34|Ps 34:22]], [[Ps.62|Ps 62:2]], [[Ps.62|Ps 62:6]], [[Ps.118|Ps 118:8-9]], [[Ps.147|Ps 147:11]]; [[1Chr.5|1Chr 5:20]]; [[Prov.3|Prov 3:5-6]]; [[Jer.17|Jer 17:7-8]]; [[Eph.1|Eph 1:12-13]]; [[1Pet.1|1Pet 1:21]]
 

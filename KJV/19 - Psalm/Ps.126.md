@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H7892">A Song</w> <w lemma="strong:H4609">of degrees</w>.
+A Song of degrees.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.126.1|1]]**<span class="endversemarker">]</span> When the <span class="smallcaps">Lord</span> turned again<small><small>[^2]</small></small> the captivity of Zion, we were like<small><small>[^3]</small></small> them that dream. <span class="startversemarker">[</span>**[[Ps.126.2|2]]**<span class="endversemarker">]</span> Then was<small><small>[^4]</small></small> our mouth filled with laughter, and our tongue with singing: then said<small><small>[^5]</small></small> they among the heathen, The <span class="smallcaps">Lord</span> hath done great things for them<small><small>[^6]</small></small>. <span class="startversemarker">[</span>**[[Ps.126.3|3]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord</span> hath done great things for us; \[whereof\] we are glad.<small><small>[^7]</small></small> <span class="startversemarker">[</span>**[[Ps.126.4|4]]**<span class="endversemarker">]</span> Turn again<small><small>[^8]</small></small> our captivity, O <span class="smallcaps">Lord</span>, as the streams<small><small>[^9]</small></small> in the south. <span class="startversemarker">[</span>**[[Ps.126.5|5]]**<span class="endversemarker">]</span> They that sow<small><small>[^10]</small></small> in tears shall reap in joy<small><small>[^11]</small></small>. <span class="startversemarker">[</span>**[[Ps.126.6|6]]**<span class="endversemarker">]</span> He that goeth<small><small>[^12]</small></small> forth and weepeth, bearing precious seed<small><small>[^13]</small></small>, shall doubtless<small><small>[^14]</small></small> come again with rejoicing, bringing his sheaves \[with him\]. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.125|<< Psalm 125]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.127|Psalm 127 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.126|Ps 126:1]], The church, celebrating her incredible return out of captivity, [[Ps.126|Ps 126:4]], prays for, and prophesies the good success thereof.  This Psalm evidently appears to have been composed in consequence of the proclamation of Cyrus in favour of the Jews, giving them leave to return to their own land, and rebuild their city and temple. [[Ps.120|Ps 120:1]], [[Ps.121|Ps 121:1]], [[Ps.122|Ps 122:1]], [[Ps.123|Ps 123:1]], [[Ps.124|Ps 124:1]], [[Ps.125|Ps 125:1]] *titles
 
 [^2]: etc. Heb. returned the returning of Zion, [[Ps.53|Ps 53:6]], [[Ps.85|Ps 85:1]]; [[Ezra.1|Ezra 1:1-11]]; [[Job.42|Job 42:10]]; [[Jer.31|Jer 31:8-10]]; [[Hos.6|Hos 6:11]]; [[Joel.3|Joel 3:1]]
 

@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H4210">A Psalm</w> \[or\] <w lemma="strong:H7892">Song</w> <w lemma="strong:H1121">for<small><small>[^2]</small></small> the sons</w> <w lemma="strong:H7141">of Korah</w>.
+A Psalm \[or\] Song for<small><small>[^2]</small></small> the sons of Korah.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.87.1|1]]**<span class="endversemarker">]</span> His<small><small>[^3]</small></small> foundation \[is\] in the holy<small><small>[^4]</small></small> mountains. <span class="startversemarker">[</span>**[[Ps.87.2|2]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord<small><small>[^5]</small></small></span> loveth the gates of Zion more than all the dwellings of Jacob. <span class="startversemarker">[</span>**[[Ps.87.3|3]]**<span class="endversemarker">]</span> Glorious<small><small>[^6]</small></small> things are spoken of thee, O city of God. Selah. <span class="startversemarker">[</span>**[[Ps.87.4|4]]**<span class="endversemarker">]</span> I will make mention of Rahab<small><small>[^7]</small></small> and Babylon<small><small>[^8]</small></small> to them that know me: behold Philistia, and Tyre<small><small>[^9]</small></small>, with Ethiopia<small><small>[^10]</small></small>; this \[man<small><small>[^11]</small></small>\] was born there. <span class="startversemarker">[</span>**[[Ps.87.5|5]]**<span class="endversemarker">]</span> And of Zion<small><small>[^12]</small></small> it shall be said, This and that man was born in her: and the highest<small><small>[^13]</small></small> himself shall establish her. <span class="startversemarker">[</span>**[[Ps.87.6|6]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord</span> shall count, when<small><small>[^14]</small></small> he writeth up the people, \[that\] this \[man<small><small>[^15]</small></small>\] was born there. Selah. <span class="startversemarker">[</span>**[[Ps.87.7|7]]**<span class="endversemarker">]</span> As well<small><small>[^16]</small></small> the singers as the players on instruments \[shall be there\]: all my<small><small>[^17]</small></small> springs \[are\] in thee. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86|<< Psalm 86]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88|Psalm 88 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.87|Ps 87:1]], The nature and glory of the church; [[Ps.87|Ps 87:4]], The increase, honour, and comfort of the members thereof.  It is highly probable that this Psalm was written by one of the descendants of Korah on the return from the Babylonian captivity. It seems to have been written in praise of Jerusalem; and, typically, of the Christian church.
 
 [^2]: or, of
 

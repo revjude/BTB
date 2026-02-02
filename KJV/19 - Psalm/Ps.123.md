@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H7892">A Song</w> <w lemma="strong:H4609">of degrees</w>.
+A Song of degrees.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.123.1|1]]**<span class="endversemarker">]</span> Unto thee lift I<small><small>[^2]</small></small> up mine eyes, O thou<small><small>[^3]</small></small> that dwellest in the heavens. <span class="startversemarker">[</span>**[[Ps.123.2|2]]**<span class="endversemarker">]</span> Behold, as the eyes<small><small>[^4]</small></small> of servants \[look\] unto the hand of their masters, \[and\] as the eyes of a maiden unto the hand of her mistress; so our eyes<small><small>[^5]</small></small> \[wait\] upon the <span class="smallcaps">Lord</span> our God, until that he have mercy upon us. <span class="startversemarker">[</span>**[[Ps.123.3|3]]**<span class="endversemarker">]</span> Have mercy<small><small>[^6]</small></small> upon us, O <span class="smallcaps">Lord</span>, have mercy upon us: for we are<small><small>[^7]</small></small> exceedingly filled with contempt. <span class="startversemarker">[</span>**[[Ps.123.4|4]]**<span class="endversemarker">]</span> Our soul is exceedingly filled with the scorning<small><small>[^8]</small></small> of those that are at ease, \[and\] with the contempt of the proud. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122|<< Psalm 122]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.124|Psalm 124 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.123|Ps 123:1]], The godly profess their confidence in God; [[Ps.123|Ps 123:3]], and pray to be delivered from contempt.  This Psalm is probably a complaint of the captives in Babylon, relative to the contempt and cruel usage they received. [[Ps.120|Ps 120:1]], [[Ps.121|Ps 121:1]], [[Ps.122|Ps 122:1]], [[Ps.123|Ps 123:1]], [[Ps.124|Ps 124:1]], [[Ps.125|Ps 125:1]], [[Ps.126|Ps 126:1]], [[Ps.127|Ps 127:1]], [[Ps.128|Ps 128:1]] *titles [[Ps.129|Ps 129:1]], [[Ps.130|Ps 130:1]], [[Ps.131|Ps 131:1]], [[Ps.132|Ps 132:1]], [[Ps.133|Ps 133:1]], [[Ps.134|Ps 134:1]] *titles
 
 [^2]: [[Ps.25|Ps 25:15]], [[Ps.121|Ps 121:1]], [[Ps.141|Ps 141:8]]; [[Luke.18|Luke 18:13]]
 

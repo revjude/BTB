@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H5329" morph="strongMorph:TH8764">To the chief Musician</w> <w lemma="strong:H5058">on Neginoth</w>, <w lemma="strong:H4210">A Psalm</w> \[or\] <w lemma="strong:H7892">Song</w>.
+To the chief Musician on Neginoth, A Psalm \[or\] Song.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.67.1|1]]**<span class="endversemarker">]</span> God<small><small>[^2]</small></small> be merciful unto us, and bless us<small><small>[^3]</small></small>; \[and\] cause<small><small>[^4]</small></small> his face to shine upon us<small><small>[^5]</small></small>; Selah. <span class="startversemarker">[</span>**[[Ps.67.2|2]]**<span class="endversemarker">]</span> That<small><small>[^6]</small></small> thy way<small><small>[^7]</small></small> may be known upon earth, thy saving<small><small>[^8]</small></small> health among all nations. <span class="startversemarker">[</span>**[[Ps.67.3|3]]**<span class="endversemarker">]</span> Let the people praise thee, O God; let all the people praise thee.<small><small>[^9]</small></small> <span class="startversemarker">[</span>**[[Ps.67.4|4]]**<span class="endversemarker">]</span> O let<small><small>[^10]</small></small> the nations be glad and sing for joy: for thou<small><small>[^11]</small></small> shalt judge the people righteously, and govern<small><small>[^12]</small></small> the nations upon earth. Selah. <span class="startversemarker">[</span>**[[Ps.67.5|5]]**<span class="endversemarker">]</span> Let the people praise thee, O God; let all the people praise thee.<small><small>[^13]</small></small> <span class="startversemarker">[</span>**[[Ps.67.6|6]]**<span class="endversemarker">]</span> \[Then<small><small>[^14]</small></small>\] shall the earth yield her increase; \[and\] God, \[even\] our own<small><small>[^15]</small></small> God, shall bless us. <span class="startversemarker">[</span>**[[Ps.67.7|7]]**<span class="endversemarker">]</span> God<small><small>[^16]</small></small> shall bless us; and all the<small><small>[^17]</small></small> ends of the earth shall fear<small><small>[^18]</small></small> him. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66|<< Psalm 66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68|Psalm 68 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.67|Ps 67:1]], A prayer for the enlargement of God’s kingdom; [[Ps.67|Ps 67:3]], to the joy of the people; [[Ps.67|Ps 67:6]], and the increase of God’s blessings.  [[Ps.4|Ps 4:1]], [[Ps.6|Ps 6:1]], [[Ps.76|Ps 76:1]] *titles
 
 [^2]: [[Num.6|Num 6:24-27]]; [[Deut.21|Deut 21:8]]; [[2Cor.13|2Cor 13:14]]
 

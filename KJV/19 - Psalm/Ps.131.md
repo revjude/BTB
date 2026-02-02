@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H7892">A Song</w> <w lemma="strong:H4609">of degrees</w> <w lemma="strong:H1732">of David</w>.
+A Song of degrees of David.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.131.1|1]]**<span class="endversemarker">]</span> <span class="smallcaps">Lord</span>, my heart<small><small>[^2]</small></small> is not haughty, nor mine eyes lofty: neither<small><small>[^3]</small></small> do I exercise<small><small>[^4]</small></small> myself in great matters, or in things too high for me<small><small>[^5]</small></small>. <span class="startversemarker">[</span>**[[Ps.131.2|2]]**<span class="endversemarker">]</span> Surely I have behaved and quieted<small><small>[^6]</small></small> myself<small><small>[^7]</small></small>, as a child<small><small>[^8]</small></small> that is weaned of his mother: my soul \[is\] even as a weaned child. <span class="startversemarker">[</span>**[[Ps.131.3|3]]**<span class="endversemarker">]</span> Let Israel<small><small>[^9]</small></small> hope in the <span class="smallcaps">Lord</span> from henceforth<small><small>[^10]</small></small> and for ever. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.130|<< Psalm 130]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132|Psalm 132 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.131|Ps 131:1]], David, professing his humility, [[Ps.131|Ps 131:3]], exhorts Israel to trust in God.  Some think that this Psalm was composed by David when accused by Saul and his courtiers that he affected the crown; though others refer it to the time of the captivity; and consider it as containing a fair account of the manner in which the captives behaved themselves. [[Ps.122|Ps 122:1]], [[Ps.124|Ps 124:1]], [[Ps.133|Ps 133:1]] *titles
 
 [^2]: [[Num.12|Num 12:3]]; [[Deut.17|Deut 17:20]]; [[1Sam.16|1Sam 16:13]], [[1Sam.16|1Sam 16:18]], [[1Sam.16|1Sam 16:22]], [[1Sam.17|1Sam 17:15]], [[1Sam.17|1Sam 17:28-29]], [[1Sam.18|1Sam 18:23]]; [[Matt.11|Matt 11:29]]; [[Acts.20|Acts 20:19]]; [[1Thess.2|1Thess 2:6-7]], [[1Thess.2|1Thess 2:10]]
 

@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H4210">A Psalm</w> <w lemma="strong:H8426">of praise<small><small>[^2]</small></small></w>.
+A Psalm of praise<small><small>[^2]</small></small>.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.100.1|1]]**<span class="endversemarker">]</span> Make<small><small>[^3]</small></small> a joyful noise unto the <span class="smallcaps">Lord</span>, all ye lands<small><small>[^4]</small></small>. <span class="startversemarker">[</span>**[[Ps.100.2|2]]**<span class="endversemarker">]</span> Serve<small><small>[^5]</small></small> the <span class="smallcaps">Lord</span> with gladness: come<small><small>[^6]</small></small> before his presence with singing. <span class="startversemarker">[</span>**[[Ps.100.3|3]]**<span class="endversemarker">]</span> Know<small><small>[^7]</small></small> ye that the <span class="smallcaps">Lord</span> he \[is\] God: \[it is\] he<small><small>[^8]</small></small> \[that\] hath made us, and not we ourselves<small><small>[^9]</small></small>; \[we are\] his<small><small>[^10]</small></small> people, and the sheep of his pasture. <span class="startversemarker">[</span>**[[Ps.100.4|4]]**<span class="endversemarker">]</span> Enter<small><small>[^11]</small></small> into his gates with thanksgiving, \[and\] into his courts with praise: be thankful<small><small>[^12]</small></small> unto him, \[and\] bless his name. <span class="startversemarker">[</span>**[[Ps.100.5|5]]**<span class="endversemarker">]</span> For the<small><small>[^13]</small></small> <span class="smallcaps">Lord</span> \[is\] good; his mercy<small><small>[^14]</small></small> \[is\] everlasting; and his truth<small><small>[^15]</small></small> \[endureth\] to all generations<small><small>[^16]</small></small>. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.99|<< Psalm 99]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101|Psalm 101 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.100|Ps 100:1]], An exhortation to praise God, cheerfully, [[Ps.100|Ps 100:3]], for his greatness; [[Ps.100|Ps 100:4]], and for his power.  [[Ps.145|Ps 145:1]] *title
 
 [^2]: or, thanksgiving
 

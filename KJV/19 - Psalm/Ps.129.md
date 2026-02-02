@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H7892">A Song</w> <w lemma="strong:H4609">of degrees</w>.
+A Song of degrees.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.129.1|1]]**<span class="endversemarker">]</span> Many<small><small>[^2]</small></small> a time have they<small><small>[^3]</small></small> afflicted me from<small><small>[^4]</small></small> my youth, may<small><small>[^5]</small></small> Israel now say: <span class="startversemarker">[</span>**[[Ps.129.2|2]]**<span class="endversemarker">]</span> Many a time have they afflicted me from my youth: yet they have<small><small>[^6]</small></small> not prevailed against me. <span class="startversemarker">[</span>**[[Ps.129.3|3]]**<span class="endversemarker">]</span> The plowers<small><small>[^7]</small></small> plowed upon my back: they made long their furrows. <span class="startversemarker">[</span>**[[Ps.129.4|4]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord<small><small>[^8]</small></small></span> \[is\] righteous: he hath cut asunder<small><small>[^9]</small></small> the cords of the wicked. <span class="startversemarker">[</span>**[[Ps.129.5|5]]**<span class="endversemarker">]</span> Let them all be confounded<small><small>[^10]</small></small> and turned back that hate Zion. <span class="startversemarker">[</span>**[[Ps.129.6|6]]**<span class="endversemarker">]</span> Let them be as the grass<small><small>[^11]</small></small> \[upon\] the housetops, which withereth afore it groweth up: <span class="startversemarker">[</span>**[[Ps.129.7|7]]**<span class="endversemarker">]</span> Wherewith the mower filleth not his hand; nor he that bindeth<small><small>[^12]</small></small> sheaves his bosom. <span class="startversemarker">[</span>**[[Ps.129.8|8]]**<span class="endversemarker">]</span> Neither do they which go by say, The blessing<small><small>[^13]</small></small> of the <span class="smallcaps">Lord</span> \[be\] upon you: we bless you in the name of the <span class="smallcaps">Lord</span>. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.128|<< Psalm 128]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.130|Psalm 130 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.129|Ps 129:1]], An exhortation to praise God for saving Israel in their great afflictions; [[Ps.129|Ps 129:5]], The haters of the church are cursed.  This Psalm was most probably composed in consequence of the opposition of the Samaritans. Ezra 4:1-23; [[Ps.120|Ps 120:1]], [[Ps.121|Ps 121:1]], [[Ps.122|Ps 122:1]], [[Ps.123|Ps 123:1]], [[Ps.124|Ps 124:1]], [[Ps.125|Ps 125:1]], [[Ps.126|Ps 126:1]], [[Ps.127|Ps 127:1]] *titles [[Ps.128|Ps 128:1]] *title
 
 [^2]: or, Much.
 

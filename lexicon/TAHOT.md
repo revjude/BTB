@@ -1,21 +1,5 @@
-TAHOT - Translators Amalgamated Hebrew OT - STEPBible.org CC BY 4.0
-### Translators Amalgamated Hebrew OT tagged with disambiguated Strongs extended for BDB including tags for prefixes & suffixes, with ETCBC morphology		
-%%
-'''
-	==============================================================															
-	Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)															
-	==============================================================															
-	This licence allows you to:															
-	* Include any part of this data in software or publications without requesting permission 															
-	* Download the data and reformat it for your application, without changing the data															
-	* Send any proposed corrections to STEPBibleATGmail.com. to be verified 															
-	  (You MAY make changes yourself, but you should include a note of changes that can be viewed by those who use your new data)															
-	* Refer others to github.com/STEPBible as the source of the data. Please do not redistribute it yourself. 															
-	  (Updates or corrections are easier to implement when the data is distributed from a single source)															
-	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..															
-	==============================================================	
-	'''
-%%
+TAHOT - Translators Amalgamated Hebrew OT - STEPBible.org CC BY
+
 This data is based on the exact Leningrad codex. Divergences from other important Hebrew manuscripts are recorded as variants. (see the list of abbreviations below). Each verse is displayed as word-per-line and also in  interlinear format. 
 
 This data aims to represents the text actually used by Bible translators, which is occasionally is different to that found in the Leningrad codex. Therefore this text deviates from Leningrad when it:

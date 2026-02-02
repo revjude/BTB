@@ -163,7 +163,7 @@ span.mod-empty-attachment{
     font-size: 0.75em;
 }
 :is(.markdown-source-view, .markdown-rendered) span.asgramGrp {
-    color: var(--background-modifier-active-hover);
+    color: var(--text-normal);
     font-size: 0.95em;
 }
 :is(.markdown-source-view, .markdown-rendered) span.aspos {

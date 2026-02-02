@@ -12,12 +12,12 @@ Welcome to the Bruhman Translator's Bible! This guide will help you get oriented
 
 ### Chapter View
 
-When you open a chapter, you'll see:
-
-- **KJV text** with Jesus' words in red
-- **Section headings** from the Berean Standard Bible
-- **Footnotes** with 500,000+ cross-references from Treasury of Scripture Knowledge
-- **Click any verse number** to dive deeper into that verse
+- Chapters are formatted in paragraphs, and meant for when reading more than a verse at a time.
+- In 1769, \[the words you see in brackets\] were added to the original 1611 edition of the King James Bible.
+- **For a more poetic experience:** Skip the bracketed words. The original translation was intended for public reading aloud, thus the shorter clauses with added punctuation.
+- **For a more literal understanding:** Read *with* the bracketed words to experience the scripture as it would have been intended for the audience of the original author.
+- If you get stuck on understanding, hover over the verse number to see a more modern translation that could get you un-stuck.
+- If a verse grabs your attention, click the verse number to study it in a detailed Verse View...
 
 ### Verse View
 
@@ -26,30 +26,27 @@ Individual verses show you:
 - **KJV text** (majority text tradition)
 - **BSB text** (critical text tradition) for comparison
 - **Interlinear breakdown** - every word linked to its original Hebrew/Aramaic/Greek
-- **Hover over Strong's numbers** to preview morphology and definitions
-- **Translator's notes** explaining textual variants between source manuscripts
+- **Hover over any original language word** to see the lexical entry for that word, which helps develop a finer image in your mind of how that word should be understood when translating it into English.
+- **Translator's notes** explain textual variants between source manuscripts
 
 ### Lexicon
 
-Click any Strong's number to access:
-
-- Multiple lexicon entries (Strong's, BDB, Abbott-Smith, LSJ, and more)
-- Complete morphological analysis
-- Usage examples and cross-references
-
-## Study Tips
-
-**Want to study a topic?** Use Obsidian's search (Ctrl/Cmd + Shift + F) to find keywords across the entire Bible.
-
-**Following cross-references?** Click any reference in the footnotes to jump directly to that passage.
-
-**Exploring word meanings?** Start from a verse, click the interlinear Strong's number, and explore the lexicon entry.
+- Each lexicon entry is compiled from all available sources of information about that particular word.
+- Every entry provides the literal English translation of the root word (called a gloss) and a full definition.
+- Entries include extended, disambiguated information where relevant—for example, biographical details about specific individuals, or contextual notes explaining how a word functions in particular usage.
+- Full lexicon entries are included from Abbott-Smith, Brown-Driver-Briggs, and LSJ, with all references linked so you can develop a fuller understanding of how each word is used throughout the Bible and other ancient sources.
+- Location entries include embedded Google Maps when referring to specific places. To use this feature, obtain a [Google Maps API key](https://developers.google.com/maps/documentation/javascript), then use VS Code to find and replace `[GoogleAPIKey]` with your key in the TIPNR directory within the lexicon folder.
 
 ## New to Obsidian?
 
 - **Links** - Click any `[[link]]` to navigate
 - **Back button** - Use Alt/Opt + ← to go back
 - **Search** - Find anything (Ctrl/Cmd + Shift + F)
+
+## Coming soon...
+- Nave's Topical Concordance
+- International Standard Bible Encyclopedia
+- Frontmatter integration for use in **Obsidian Bases**
 
 ## Need Help?
 

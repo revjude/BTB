@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H7892">A Song</w> <w lemma="strong:H4609">of degrees</w>.
+A Song of degrees.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.120.1|1]]**<span class="endversemarker">]</span> In my distress<small><small>[^2]</small></small> I cried unto the <span class="smallcaps">Lord</span>, and he heard me. <span class="startversemarker">[</span>**[[Ps.120.2|2]]**<span class="endversemarker">]</span> Deliver my soul, O <span class="smallcaps">Lord</span>, from lying lips<small><small>[^3]</small></small>, \[and\] from a deceitful tongue. <span class="startversemarker">[</span>**[[Ps.120.3|3]]**<span class="endversemarker">]</span> What shall<small><small>[^4]</small></small> be given unto thee? or what shall be done<small><small>[^5]</small></small> unto thee, thou false tongue? <span class="startversemarker">[</span>**[[Ps.120.4|4]]**<span class="endversemarker">]</span> Sharp<small><small>[^6]</small></small> arrows<small><small>[^7]</small></small> of the mighty, with coals of juniper. <span class="startversemarker">[</span>**[[Ps.120.5|5]]**<span class="endversemarker">]</span> Woe<small><small>[^8]</small></small> is me, that I sojourn in Mesech<small><small>[^9]</small></small>, \[that\] I dwell in the tents<small><small>[^10]</small></small> of Kedar! <span class="startversemarker">[</span>**[[Ps.120.6|6]]**<span class="endversemarker">]</span> My soul<small><small>[^11]</small></small> hath long dwelt with him that hateth peace. <span class="startversemarker">[</span>**[[Ps.120.7|7]]**<span class="endversemarker">]</span> I \[am for\] peace<small><small>[^12]</small></small>: but when<small><small>[^13]</small></small> I speak, they \[are\] for war. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119|<< Psalm 119]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.121|Psalm 121 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.120|Ps 120:1]], David prays against Doeg; [[Ps.120|Ps 120:3]], reproves his tongue; [[Ps.120|Ps 120:5]], complains of his necessary conversation with the wicked.  Bp. Patrick and others suppose this Psalm to have been composed by David, when the calumnies of Doeg and others forced him to flee his country. [[Ps.121|Ps 121:1]], [[Ps.122|Ps 122:1]], [[Ps.123|Ps 123:1]], [[Ps.124|Ps 124:1]], [[Ps.125|Ps 125:1]], [[Ps.126|Ps 126:1]], [[Ps.127|Ps 127:1]], [[Ps.128|Ps 128:1]], [[Ps.129|Ps 129:1]] *titles [[Ps.130|Ps 130:1]], [[Ps.131|Ps 131:1]], [[Ps.132|Ps 132:1]], [[Ps.133|Ps 133:1]], [[Ps.134|Ps 134:1]] *titles
 
 [^2]: [[Ps.18|Ps 18:6]], [[Ps.30|Ps 30:7-8]], [[Ps.50|Ps 50:15]], [[Ps.107|Ps 107:13]], [[Ps.116|Ps 116:3-4]], [[Ps.118|Ps 118:5]]; [[Isa.37|Isa 37:3-4]], [[Isa.37|Isa 37:14-20]]; [[Isa.38|Isa 38:2-5]]; [[Jonah.2|Jonah 2:2]]; [[Luke.22|Luke 22:44]]; [[Heb.5|Heb 5:7]]
 

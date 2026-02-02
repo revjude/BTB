@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H7892">A Song</w> <w lemma="strong:H4609">of degrees</w>.
+A Song of degrees.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.130.1|1]]**<span class="endversemarker">]</span> Out of<small><small>[^2]</small></small> the depths have I cried unto thee, O <span class="smallcaps">Lord</span>. <span class="startversemarker">[</span>**[[Ps.130.2|2]]**<span class="endversemarker">]</span> Lord, hear my voice: let thine ears<small><small>[^3]</small></small> be attentive to the voice of my supplications. <span class="startversemarker">[</span>**[[Ps.130.3|3]]**<span class="endversemarker">]</span> If thou, <span class="smallcaps">Lord</span>, shouldest mark<small><small>[^4]</small></small> iniquities, O Lord, who shall stand? <span class="startversemarker">[</span>**[[Ps.130.4|4]]**<span class="endversemarker">]</span> But \[there<small><small>[^5]</small></small> is\] forgiveness with thee, that thou mayest<small><small>[^6]</small></small> be feared. <span class="startversemarker">[</span>**[[Ps.130.5|5]]**<span class="endversemarker">]</span> I wait<small><small>[^7]</small></small> for the <span class="smallcaps">Lord</span>, my soul doth wait, and in his<small><small>[^8]</small></small> word do I hope. <span class="startversemarker">[</span>**[[Ps.130.6|6]]**<span class="endversemarker">]</span> My soul \[waiteth<small><small>[^9]</small></small>\] for the Lord more than they that watch for the morning: \[I say\], \[more than\] they that watch for the morning<small><small>[^10]</small></small>. <span class="startversemarker">[</span>**[[Ps.130.7|7]]**<span class="endversemarker">]</span> Let Israel<small><small>[^11]</small></small> hope in the <span class="smallcaps">Lord</span>: for with<small><small>[^12]</small></small> the <span class="smallcaps">Lord</span> \[there is\] mercy, and with him \[is\] plenteous redemption. <span class="startversemarker">[</span>**[[Ps.130.8|8]]**<span class="endversemarker">]</span> And he shall redeem<small><small>[^13]</small></small> Israel from all his iniquities. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.129|<< Psalm 129]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.131|Psalm 131 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.130|Ps 130:1]], The psalmist professes his hope in prayer; [[Ps.130|Ps 130:5]], and his patience in hope; [[Ps.130|Ps 130:7]], He exhorts Israel to trust in God.  [[Ps.121|Ps 121:1]], [[Ps.122|Ps 122:1]], [[Ps.123|Ps 123:1]], [[Ps.124|Ps 124:1]], [[Ps.125|Ps 125:1]], [[Ps.126|Ps 126:1]], [[Ps.127|Ps 127:1]], [[Ps.128|Ps 128:1]] *titles [[Ps.129|Ps 129:1]] *titles
 
 [^2]: [[Ps.18|Ps 18:4-6]], [[Ps.18|Ps 18:16]], [[Ps.25|Ps 25:16-18]], [[Ps.40|Ps 40:2]], [[Ps.42|Ps 42:7]], [[Ps.69|Ps 69:1-2]], [[Ps.69|Ps 69:14-15]], [[Ps.71|Ps 71:20]], [[Ps.88|Ps 88:6-7]]; [[Ps.116|Ps 116:3-4]]; [[Lam.3|Lam 3:53-55]]; [[Jonah.2|Jonah 2:2-4]]; [[Heb.5|Heb 5:7]]
 

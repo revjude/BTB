@@ -1,36 +1,8 @@
-TAGNT - Translators Amalgamated Greek NT -  STEPBible.org CC BY 4.0																				
+TAGNT - Translators Amalgamated Greek New Testament - STEPBible.org CC BY
 
-All the words from standard Greek editions \(NA27/28, TR, SBL, TH, Byz, WH, Treg\) with translations, grammar, sources & variants that affect translation
+with translations, grammar, editions & variants	
 
-Introduction & Abbreviations at: https://github.com/STEPBible/STEPBible-Data															
-
-Spreadsheet version at: 
-https://docs.google.com/spreadsheets/d/1Uri4ehqXnzUa97uvH-1-C022708HhLQ1a541Hsnlt70/edit															
-
-***
-
-%%
-```																
-	==============================================================															
-	Data created by www.STEPBible.org based on work at Tyndale House Cambridge \(CC BY 4.0\)															
-	==============================================================															
-	This licence allows you to:															
-	* Include any part of this data in software or publications without requesting permission 															
-	* Download the data and reformat it for your application, without changing the data															
-	* Send any proposed corrections to STEPBibleATGmail.com. to be verified 															
-	  \(You MAY make changes yourself, but you should include a note of changes that can be viewed by those who use your new data\)															
-	* Refer others to github.com/STEPBible as the source of the data. Please do not redistribute it yourself. 															
-	  \(Updates or corrections are easier to implement when the data is distributed from a single source\)															
-	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..															
-	==============================================================															
-```
-%%															
-
-															
-### Translators Amalgamated Greek New Testament - with translations, grammar, editions & variants																
-
-All the words from different Greek editions, reflecting all the translations of the Bible, 																
-with all the variants having a difference that affect translation.																
+All the words from different Greek editions, reflecting all the translations of the Bible, with all the variants having a difference that affect translation.
 
 #### Summary of words included in the Amalgamated Greek NT:										
 | Types of words | NUMBERS FOUND IN TYPES OF MANUSCRIPTS | USAGE IN TYPES OF BIBLES | SIGNIFICANCE | OTHER VARIANTS |

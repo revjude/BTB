@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H7892">A Song</w> <w lemma="strong:H4609">of degrees</w>.
+A Song of degrees.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.121.1|1]]**<span class="endversemarker">]</span> I will<small><small>[^2]</small></small> lift up<small><small>[^3]</small></small> mine eyes unto the hills, from whence cometh my help. <span class="startversemarker">[</span>**[[Ps.121.2|2]]**<span class="endversemarker">]</span> My help<small><small>[^4]</small></small> \[cometh\] from the <span class="smallcaps">Lord</span>, which made heaven and earth. <span class="startversemarker">[</span>**[[Ps.121.3|3]]**<span class="endversemarker">]</span> He will not<small><small>[^5]</small></small> suffer thy foot to be moved: he that keepeth thee will not slumber. <span class="startversemarker">[</span>**[[Ps.121.4|4]]**<span class="endversemarker">]</span> Behold, he that<small><small>[^6]</small></small> keepeth Israel shall<small><small>[^7]</small></small> neither slumber nor sleep. <span class="startversemarker">[</span>**[[Ps.121.5|5]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord</span> \[is\] thy keeper: the <span class="smallcaps">Lord</span> \[is\] thy shade<small><small>[^8]</small></small> upon<small><small>[^9]</small></small> thy right hand. <span class="startversemarker">[</span>**[[Ps.121.6|6]]**<span class="endversemarker">]</span> The sun<small><small>[^10]</small></small> shall not smite thee by day, nor the moon by night. <span class="startversemarker">[</span>**[[Ps.121.7|7]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord</span> shall preserve<small><small>[^11]</small></small> thee from all evil: he shall<small><small>[^12]</small></small> preserve thy soul. <span class="startversemarker">[</span>**[[Ps.121.8|8]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord</span> shall preserve thy going out<small><small>[^13]</small></small> and thy coming in from this time<small><small>[^14]</small></small> forth, and even for evermore. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.120|<< Psalm 120]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122|Psalm 122 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.121|Ps 121:1]], The great safety of the godly, who put their trust in God’s protection.  [[Ps.120|Ps 120:1]] *title
 
 [^2]: etc. or, Shall I lift up my eyes to the hills, whence should my help come? [[Jer.3|Jer 3:23]]
 

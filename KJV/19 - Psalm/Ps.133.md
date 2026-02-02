@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H7892">A Song</w> <w lemma="strong:H4609">of degrees</w> <w lemma="strong:H1732">of David</w>.
+A Song of degrees of David.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.133.1|1]]**<span class="endversemarker">]</span> Behold, how good<small><small>[^2]</small></small> and how pleasant \[it is\] for brethren to dwell together<small><small>[^3]</small></small> in unity! <span class="startversemarker">[</span>**[[Ps.133.2|2]]**<span class="endversemarker">]</span> \[It is\] like<small><small>[^4]</small></small> the precious ointment upon the head, that ran down<small><small>[^5]</small></small> upon the beard, \[even\] Aaron’s beard: that went down to the skirts of his garments; <span class="startversemarker">[</span>**[[Ps.133.3|3]]**<span class="endversemarker">]</span> As the dew of Hermon<small><small>[^6]</small></small>, \[and as the dew\] that descended upon the mountains of Zion: for there the <span class="smallcaps">Lord<small><small>[^7]</small></small></span> commanded the blessing, \[even\] life<small><small>[^8]</small></small> for evermore. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132|<< Psalm 132]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.134|Psalm 134 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.133|Ps 133:1]], The blessedness of unity among brethren.  This Psalm was probably composed when David was made king over all Israel. [[Ps.122|Ps 122:1]], [[Ps.124|Ps 124:1]], [[Ps.131|Ps 131:1]] *titles
 
 [^2]: [[Ps.122|Ps 122:6-8]]; [[Gen.13|Gen 13:8]], [[Gen.45|Gen 45:24]]; [[2Sam.2|2Sam 2:26-27]]; [[Isa.11|Isa 11:6]], [[Isa.11|Isa 11:9]], [[Isa.11|Isa 11:13]]; [[Jer.32|Jer 32:39]]; [[John.13|John 13:35]], [[John.17|John 17:21]]; [[1Cor.1|1Cor 1:10]]; [[Eph.4|Eph 4:3-6]]; [[Phil.2|Phil 2:2-5]]; [[Heb.13|Heb 13:1]]; [[1Pet.3|1Pet 3:8]]; [[1John.3|1John 3:14-19]]
 

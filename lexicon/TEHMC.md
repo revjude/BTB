@@ -2,27 +2,6 @@ TEHMC - Translators Expansion of Hebrew Morphhology Codes - STEPBible.org CC BY
 
 Hebrew morphology codes with expanded explanations in terms of parsing, meaning and example
 
-[[#BRIEF LEXICAL MORPHOLOGY CODES]] - as used in the  lexicons
-[[#FULL MORPHOLOGY CODES]] - as used in tagged  texts
-***
-
-%%
-```
-	==============================================================												
-	Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)												
-	==============================================================												
-	This licence allows you to:												
-	* Include any part of this data in software or publications without requesting permission 												
-	* Download the data and reformat it for your application, without changing the data												
-	* Send any proposed corrections to STEPBibleATGmail.com. to be verified 												
-	  (You MAY make changes yourself, but you should include a note of changes that can be viewed by those who use your new data)												
-	* Refer others to github.com/STEPBible as the source of the data. Please do not redistribute it yourself. 												
-	  (Updates or corrections are easier to implement when the data is distributed from a single source)												
-	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..												
-	==============================================================												
-```
-%%
-
 ### BRIEF LEXICAL MORPHOLOGY CODES
 These codes are used in the Lexicon. They are used to define the the word, and not each individual instance of the word.
 

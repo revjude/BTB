@@ -3,5 +3,6 @@
   "showRibbon": true,
   "enabledCssSnippets": [
     "btb"
-  ]
+  ],
+  "accentColor": "#4169e1"
 }

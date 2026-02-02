@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H5329" morph="strongMorph:TH8764">To the chief Musician</w> <w lemma="strong:H5058">upon Neginah</w>, \[A Psalm\] <w lemma="strong:H1732">of David</w>.
+To the chief Musician upon Neginah, \[A Psalm\] of David.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.61.1|1]]**<span class="endversemarker">]</span> Hear<small><small>[^2]</small></small> my cry, O God; attend unto my prayer. <span class="startversemarker">[</span>**[[Ps.61.2|2]]**<span class="endversemarker">]</span> From<small><small>[^3]</small></small> the end of the earth will I cry unto thee, when my heart<small><small>[^4]</small></small> is overwhelmed: lead me to the rock<small><small>[^5]</small></small> \[that\] is higher than I. <span class="startversemarker">[</span>**[[Ps.61.3|3]]**<span class="endversemarker">]</span> For thou<small><small>[^6]</small></small> hast been a shelter for me, \[and\] a strong<small><small>[^7]</small></small> tower from the enemy. <span class="startversemarker">[</span>**[[Ps.61.4|4]]**<span class="endversemarker">]</span> I will abide<small><small>[^8]</small></small> in thy tabernacle for ever: I will trust<small><small>[^9]</small></small> in the covert of thy wings. Selah. <span class="startversemarker">[</span>**[[Ps.61.5|5]]**<span class="endversemarker">]</span> For thou, O God, hast heard<small><small>[^10]</small></small> my vows: thou hast given \[me\] the heritage<small><small>[^11]</small></small> of those that fear thy name. <span class="startversemarker">[</span>**[[Ps.61.6|6]]**<span class="endversemarker">]</span> Thou wilt prolong the king’s life<small><small>[^12]</small></small>: \[and\] his years as many generations<small><small>[^13]</small></small>. <span class="startversemarker">[</span>**[[Ps.61.7|7]]**<span class="endversemarker">]</span> He shall abide<small><small>[^14]</small></small> before God for ever: O prepare<small><small>[^15]</small></small> mercy and truth, \[which\] may preserve him. <span class="startversemarker">[</span>**[[Ps.61.8|8]]**<span class="endversemarker">]</span> So will I sing<small><small>[^16]</small></small> praise unto thy name for ever, that I<small><small>[^17]</small></small> may daily perform my vows. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60|<< Psalm 60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62|Psalm 62 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.61|Ps 61:1]], David flees to God upon his former experience; [[Ps.61|Ps 61:4]], He vows perpetual service unto him, because of his promises.  Instead of ***neginath*** , many manuscripts, have ***neginoth;*** and two manuscripts, supply ***mizmor*** , “a Psalm.” Some suppose this Psalm was composed when David was driven by Absalom’s rebellion beyond Jordan, and from the sanctuary of God. [[Ps.4|Ps 4:1]], [[Ps.6|Ps 6:1]], [[Ps.54|Ps 54:1]], [[Ps.55|Ps 55:1]] *titles
 
 [^2]: [[Ps.5|Ps 5:1-3]], [[Ps.17|Ps 17:1]], [[Ps.28|Ps 28:2]], [[Ps.55|Ps 55:1-2]], [[Ps.130|Ps 130:2]]; [[Phil.4|Phil 4:6]]
 

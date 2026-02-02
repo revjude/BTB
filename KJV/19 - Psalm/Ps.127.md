@@ -4,13 +4,13 @@
 
 
 
-<w lemma="strong:H7892">A Song</w> <w lemma="strong:H4609">of degrees</w> <w lemma="strong:H8010">for Solomon<small><small>[^2]</small></small></w>.
+A Song of degrees for Solomon<small><small>[^2]</small></small>.
 
 
 $\quad$ <span class="startversemarker">[</span>**[[Ps.127.1|1]]**<span class="endversemarker">]</span> Except the <span class="smallcaps">Lord<small><small>[^3]</small></small></span> build<small><small>[^4]</small></small> the house, they labour<small><small>[^5]</small></small> in vain that build it<small><small>[^6]</small></small>: except<small><small>[^7]</small></small> the <span class="smallcaps">Lord</span> keep the city, the watchman<small><small>[^8]</small></small> waketh \[but\] in vain. <span class="startversemarker">[</span>**[[Ps.127.2|2]]**<span class="endversemarker">]</span> \[It is\] vain<small><small>[^9]</small></small> for you to rise up<small><small>[^10]</small></small> early, to sit up late, to eat the bread<small><small>[^11]</small></small> of sorrows: \[for\] so he<small><small>[^12]</small></small> giveth his beloved sleep. <span class="startversemarker">[</span>**[[Ps.127.3|3]]**<span class="endversemarker">]</span> Lo, children<small><small>[^13]</small></small> \[are\] an heritage of the <span class="smallcaps">Lord</span>: \[and\] the fruit of the womb \[is his\] reward. <span class="startversemarker">[</span>**[[Ps.127.4|4]]**<span class="endversemarker">]</span> As arrows<small><small>[^14]</small></small> \[are\] in the hand of a mighty man; so \[are\] children<small><small>[^15]</small></small> of the youth. <span class="startversemarker">[</span>**[[Ps.127.5|5]]**<span class="endversemarker">]</span> Happy<small><small>[^16]</small></small> \[is\] the man that hath his quiver full of them<small><small>[^17]</small></small>: they shall not be ashamed, but they shall speak<small><small>[^18]</small></small> with the enemies in the gate. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.126|<< Psalm 126]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.128|Psalm 128 >>]]</td></tr></table>
 
 
-[^1]:  <lb type="x-begin-paragraph"/> 
+[^1]:  [[Ps.127|Ps 127:1]], The virtue of God’s blessing; [[Ps.127|Ps 127:3]], Good children are his gift.  [[Ps.120|Ps 120:1]], [[Ps.121|Ps 121:1]], [[Ps.122|Ps 122:1]], [[Ps.123|Ps 123:1]], [[Ps.124|Ps 124:1]], [[Ps.125|Ps 125:1]], [[Ps.126|Ps 126:1]] *titles
 
 [^2]: or, of Solomon, [[Ps.72|Ps 72:1]] *title
 

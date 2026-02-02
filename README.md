@@ -1,79 +1,80 @@
-# Bruhman Translator's Bible (BTB)
+## Bruhman Translator's Bible (BTB)
 
+A digital Bible compiled in markdown for the [Obsidian](https://obsidian.md) platform. The BTB provides English-speaking users access to study the Bible in the original Greek and Hebrew through an intuitive interface, with resources available for interpretation and translation from the source languages.
 
-A powerful and comprehensive digital Bible compiled in markdown for the [Obsidian](https://obsidian.md) platform.
-## Overview
+### Overview
 
-Typically used as a personal note-taking solution, in this application the fast and powerful Wikipedia-style linking features of [Obsidian](https://obsidian.md) lend themselves mightily to the many still-relevant and freely available Bible resources found in the public domain.
+Obsidian's Wikipedia-style linking features work well for integrating the many Bible resources available in the public domain. This project attempts to bring together these resources into an interconnected study environment.
 
-Endless thanks to all of the proud scholars, theologians, and scribes who did the real work that made a project like this possible.  This Bible was built on the backs of many who began their painstaking work digitizing, analyzing, and correcting centuries-old publications, years before modern tools made such tasks easier.  Also, special thanks to the groups and individuals listed [below](#Acknowledgments), who made their work freely available to the public and provided the source data for this project.
+This work builds on the efforts of many scholars, theologians, and scribes whose painstaking digitization, analysis, and correction of ancient publications began years before modern tools made such tasks easier. The groups and individuals listed in the [Acknowledgments](#acknowledgments) section generously made their work freely available and provided the foundation for this project.
 
-*The first iteration is somewhat complete, but it only scratches the surface of what could be done leveraging the Obsidian platform.  Endless possibilities include: full text search, topical concordances, a team-style workflow for managing translation projects, additional bible versions...*
+**Important:** Initial setup requires patience. After cloning the repository or downloading the archive of over 130,000 individual notes, Obsidian's first indexing takes approximately one hour. Once complete, navigation is quick.
 
-**Important:** Initial setup takes a little while, but once the indexing is complete everything runs lightning fast. After cloning the repository, or downloading and unzipping the archive of over 130,000 individual "notes" that make up the Bible, the first index can take about an hour, more or less.
-## Screenshots
-#### CHAPTERS
+#### Chapters with Extensive Footnotes
+
 ![Chapter View](/lexicon/views/ChapterView.png)
-#### RED-LETTERS & CROSS-REFERENCES
+
+#### Red Letters & Cross-References
+
 ![Chapter View](/lexicon/views/RedLetters.PNG)
-#### VERSES
-![Verse View](/lexicon/views/VerseView.PNG)
-#### LEXICON
+
+#### Verses with Translation Notes
+
+![Verse View](/lexicon/views/TranslatorsNotes.PNG)
+
+#### Hebrew/Aramaic & Greek Lexicons
+
 ![Chapter View](/lexicon/views/Lexicon.PNG)
-#### MAPS
+
+#### Maps
+
 ![Chapter View](/lexicon/views/Maps.PNG)
-#### SCRIPTURE QUOTING SCRIPTURE
+
+#### Scripture Quoting Scripture
+
 ![Chapter View](/lexicon/views/SQS.PNG)
 
 ## Features
-- Full chapters feature the **KJV** text with **Jesus' words in red-letters**.
-- Chapters are divided by section headings from the **Berean Standard Bible** (with cross-references) for easy reading.
-- Full chapters also include all 500,000+ references and notes from the expansive **Treasury of Scripture Knowledge** which are available as Obsidian footnotes aligned with their catchwords (and which appear to be the primary source of the extensive ESV references and notes).
-- Individual verses (easily accessible from chapter view) include the verse text from the **KJV** representing the majority text.  
-- All **Septuagint** interlinear text is taken from the Apostolic Bible Polyglot and made available directly from the Masoretic text and vice versa.  This allows you to easily see the same scripture used during the 1st century which is often quoted in the New Testament.
-- **Scripture Passages Quoting Scripture** is embedded in the verse views, which is especially insightful when studying New Testament scripture that quotes or reference passages in the Septuagint (LXX)—the Bible used by the New Testament authors (not the Masoretic text of the Old Testament).
-- Text from the **Berean Standard Bible** is also included in the verse view for quick reference to a modern translation of the critical text.
-- Individual verses are broken down in an interlinear format, displaying the unicode word in the original language (color-coded: **red** for **Hebrew**, **green** for **Aramaic**, **purple** for **Greek** - and **orange** for **Latin** in a few places), a link to the lexical entry for every Strong's tagged word, and a hover preview of full explanations for parts-of-speech & morphology.
-- Also included in the verse view are translator's notes from the **Translator's Amalgamated Hebrew Old Testament and Greek New Testament**, explaining word order differences between sources, the different spellings or definitions, and which sources include or exclude which words, phrases, and verses.  It's like having a reference to every source text all in one easy interface.
-- The lexicon contains pages compiled for every unambiguated Strong's number from all available entries found in:
-   - **Strong's** Exhaustive Concordance
-   - **Brown-Driver-Briggs** Hebrew English Lexicon of the Old Testament
-   - **Abbott Smith** Greek Lexicon of the New Testament
-   - **Liddell and Scott's (LSJ)** Greek-English Lexicon
-   - **Robinson's Morphological Analysis Codes**
-   - **Translator's Brief Lexicon of Extended Strong's for Greek & Hebrew**
-   - **Translator's Individualized Proper Names**, which includes articles on individual people and detailed entries about place names including Google Maps for places with geocoding (requires a Google API key.)
+
+- **Chapter View**: Full chapters from the majority text with Jesus' words in red letters, pericope headings with cross-references, and over 500,000 footnotes
+- **Multiple Translations**: Individual verses include a traditional translation from the majority text, a modern translation from the critical text, and a literal word-for-word translation from the original Greek, Hebrew, or Aramaic
+- **Septuagint Integration**: Interlinear NT Greek and OT Hebrew verses, plus all OT Greek verses from the Septuagint with word-for-word translations. The Septuagint (LXX) was the Bible known to the NT author's and so represents the scripture often quoted or referenced in the NT.  This edition of the LXX is derived from the [Apostolic Bible Polyglot](https://en.wikipedia.org/wiki/Apostolic_Bible_Polyglot) and cross-referenced with the Masoretic text
+- **Lexicon Links**: Each word links to its BTB lexicon entry, compiled from multiple sources and disambiguated (e.g., clicking "Mary" shows the entry for that specific person, not just the general name)
+- **Scripture Cross-References**: Embedded references show where verses quote, reference, or allude to other passages—helpful when studying New Testament citations of the Septuagint
+- **Translator's Notes**: Notes from the Translator's Amalgamated Hebrew Old Testament and Greek New Testament explain word order differences, variant spellings and definitions, and textual variations across sources
 
 ## Installation
+
 1. Download or clone this repository
 2. Open the folder as a vault in [Obsidian](https://obsidian.md)
-3. **Be patient during initial indexing** - Obsidian will need time (potentially up to an hour)
-4. Enable CSS snippets and select the btb.css snippet file which is installed in the .obsidian folder and also found in the root of this repository.
-5. Change your settings so that reading view is the default when opening notes.
-6. If you would like to use the maps features you have to sign up for a [Google developer API key](https://developers.google.com/maps/documentation/javascript), and then use VS Code to do a global find and replace of '\[GoogleAPIKey\]' with your key.
+3. **Be patient during initial indexing** - Obsidian will need approximately one hour to index all files
+4. Enable CSS snippets and select the `btb.css` snippet file (located in the `.obsidian` folder and the repository root)
+5. Set reading view as the default when opening notes (in Obsidian settings)
+6. (Optional) For map features, obtain a [Google Maps API key](https://developers.google.com/maps/documentation/javascript), then use VS Code to find and replace `[GoogleAPIKey]` with your key throughout the project
 
-There are no ***required*** Obsidian plugins, but there are a multitude of them that could be useful.
-### Source Material Licenses
+_Note: No Obsidian plugins are required, though [there are many](https://obsidian.md/plugins) that might further enhance usability._
+
+## Source Material Licenses
+
 The underlying Bible texts and reference materials used in this project are in the public domain or used under their respective open licenses. See the Acknowledgments section below for details on individual resources.
+
 ## Acknowledgments
-Thank you to Dr. Charles Vanderpool, who very generously gave permission to use his [Apostolic Bible Polyglot](https://apostolicbible.com/), from which the Septuagint text and interlinear data were derived.  If you are interested in New Testament and Septuagint Greek, [his website](https://apostolicbible.com/) offers free downloadable resources.  Please [make a purchase at his bookstore](https://www.apostolicbible.com/bookstore.htm) to support his amazing work.
 
-This project would not have been possible without the generous contributions by [Tyndale House, Cambridge](https://tyndalehouse.com/) and the [Tyndale House Scholars](https://tyndalehouse.com/international-scholars-programme/) who did the motherload of work compiling all of the data and resources curated and made available by [STEPBible.org](https://STEPBible.org).  The full data repository can be found [here](https://github.com/STEPBible/STEPBible-Data).  Please visit the [STEP Bible website](https://www.stepbible.org/).  It's an outstanding, comprehensive resource of Bibles and supporting commentary and the inspiration for this Bible.
+This project relies entirely on the work of others who have made their scholarship freely available.
 
-And a special thanks to the [CrossWire Bible Society](https://www.crosswire.org) who manage [The Sword Project](https://www.crosswire.org/sword/index.jsp) and host a multitude of freely-available Bibles, commentaries, and books found [here](https://www.crosswire.org/sword/modules/index.jsp) from which the red-lettering, and *The Treasury of Scripture Knowledge* cross-references are derived.
+**Dr. Charles Vanderpool** generously granted permission to use his [Apostolic Bible Polyglot](https://apostolicbible.com/), from which the Septuagint text and interlinear data were derived. His [website](https://apostolicbible.com/) offers free downloadable resources for those interested in New Testament and Septuagint Greek. Consider [supporting his work](https://www.apostolicbible.com/bookstore.htm) through his bookstore.
 
-Strong's Concordance was compiled from the same source data as OpenScripture's Hebrew lexicon found [here](https://github.com/openscriptures/strongs) 
+[Tyndale House, Cambridge](https://tyndalehouse.com/) and the [Tyndale House Scholars](https://tyndalehouse.com/international-scholars-programme/) compiled the extensive data and resources made available by [STEPBible.org](https://STEPBible.org). Their full data repository is [here](https://github.com/STEPBible/STEPBible-Data). The [STEP Bible website](https://www.stepbible.org/) is an excellent resource and served as inspiration for this project.
 
-The [unabridged Brown-Driver-Briggs lexicon](https://github.com/eliranwong/unabridged-BDB-Hebrew-lexicon) for [Marvel.bible](https://marvel.bible/) with Strong's tagging and the Greek morphological codes from the [Open Greek New Testament](https://github.com/eliranwong/OpenGNT/) project are published by [Eliran Wong](https://github.com/eliranwong) who has contributed so much of his hard work to the public.
+The [CrossWire Bible Society](https://www.crosswire.org) manages [The SWORD Project](https://www.crosswire.org/sword/index.jsp) and hosts numerous freely-available Bibles, commentaries, and books [here](https://www.crosswire.org/sword/modules/index.jsp). The red-lettering and _The Treasury of Scripture Knowledge_ cross-references come from their resources.
 
-Most of the header info/comments found within the STEPBible Data repository are converted to markdown for reference, and also to aid with previewing morphology, abbreviations, explanations, etc. and those can be found here:
+The [Brown-Driver-Briggs lexicon](https://github.com/eliranwong/unabridged-BDB-Hebrew-lexicon) for [Marvel.bible](https://marvel.bible/) with lemma tagging and the Greek morphological codes from the [Open Greek New Testament](https://github.com/eliranwong/OpenGNT/) project are published by [Eliran Wong](https://github.com/eliranwong), whose contributions to the public have been invaluable.
+
+### Reference Materials
+
+Several reference materials from the STEPBible Data repository have been converted to markdown for reference:
 
    - [Translator's Amalgamated Greek New Testament - TAGNT](lexicon/TAGNT.md)
-   - [Translator's Amalgamated Hebrew Old Testament - TAHOT](lexicon/TAHOT.md)
-   - [Translator's Brief lexicon of Extended Strong's for Greek - TBESG](lexicon/TBESG.md)
-   - [Translators Expansion of Hebrew Morphology Codes - TEHMC](lexicon/TEHMC.md)
    - [Translators Expansion of Greek Morphology Codes - TEGMC](lexicon/TEGMC.md)
-   - [Translators Formatted full LSJ Bible lexicon up to G5624](lexicon/TFLSJ_0-5624)
-   - [Translators Formatted full LSJ Bible lexicon extra](lexicon/TFLSJ_extra.md)
-
-
+   - [Translator's Amalgamated Hebrew Old Testament - TAHOT](lexicon/TAHOT.md)
+   - [Translators Expansion of Hebrew Morphology Codes - TEHMC](lexicon/TEHMC.md)
