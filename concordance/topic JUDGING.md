@@ -1,0 +1,5 @@
+
+**JUDGING**
+
+→ See [[topic UNCHARITABLENESS|UNCHARITABLENESS]]
+

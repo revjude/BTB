@@ -1,0 +1,7 @@
+
+**PERSONAL CALL**
+
+→ See [[topic CALL|CALL, PERSONAL]]
+
+→ See [[topic MINISTER, CHRISTIAN|MINISTERS, CALL OF]]
+

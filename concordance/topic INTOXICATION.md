@@ -1,0 +1,7 @@
+
+**INTOXICATION**
+
+→ See [[topic DRUNKENNESS|DRUNKENNESS]]
+
+→ See [[topic ABSTINENCE|ABSTINENCE]]
+

@@ -1,0 +1,5 @@
+
+**OBJECT TEACHING**
+
+→ See [[topic INSTRUCTION|INSTRUCTION]]
+

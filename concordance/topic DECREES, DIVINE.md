@@ -1,0 +1,5 @@
+
+**DECREES, DIVINE**
+
+→ See [[topic PREDESTINATION|PREDESTINATION]]
+

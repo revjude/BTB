@@ -1,0 +1,13 @@
+
+**MAGIC**
+
+→ See [[topic ASTROLOGY|ASTROLOGY]]
+
+→ See [[topic MAGICIAN|MAGICIAN]]
+
+→ See [[topic NECROMANCY|NECROMANCY]]
+
+→ See [[topic SORCERY|SORCERY]]
+
+→ See [[topic WITCHCRAFT|WITCHCRAFT]]
+

@@ -1,0 +1,7 @@
+
+**SPIRITUALISM**
+
+→ See [[topic NECROMANCY|NECROMANCY]]
+
+→ See [[topic SORCERY|SORCERY]]
+

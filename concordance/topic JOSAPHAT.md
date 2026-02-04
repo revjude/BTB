@@ -1,0 +1,5 @@
+
+**JOSAPHAT**
+
+→ See [[topic JEHOSHAPHAT|JEHOSHAPHAT]]
+

@@ -1,0 +1,5 @@
+
+**TEN COMMANDMENTS**
+
+→ See [[topic COMMANDMENTS|COMMANDMENTS]]
+

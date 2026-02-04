@@ -1,0 +1,7 @@
+
+**CONTRITION**
+
+→ See [[topic REPENTANCE|REPENTANCE]]
+
+→ See [[topic SIN|SIN, CONFESSION OF]]
+

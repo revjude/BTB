@@ -1,0 +1,5 @@
+
+**INCARNATION**
+
+→ See [[topic JESUS, THE CHRIST|JESUS, INCARNATION OF]]
+

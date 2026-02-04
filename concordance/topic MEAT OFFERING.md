@@ -1,0 +1,5 @@
+
+**MEAT OFFERING**
+
+→ See [[topic OFFERINGS|OFFERINGS, MEAT]]
+

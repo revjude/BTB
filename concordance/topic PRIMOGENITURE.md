@@ -1,0 +1,7 @@
+
+**PRIMOGENITURE**
+
+→ See [[topic FIRSTBORN|FIRSTBORN]]
+
+→ See [[topic BIRTHRIGHT|BIRTHRIGHT]]
+

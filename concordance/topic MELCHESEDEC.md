@@ -1,0 +1,5 @@
+
+**MELCHESEDEC**
+
+→ See [[topic MELCHIZEDEK|MELCHIZEDEK]]
+

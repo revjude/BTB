@@ -1,0 +1,5 @@
+
+**THANK OFFERINGS**
+
+→ See [[topic OFFERINGS|OFFERINGS]]
+

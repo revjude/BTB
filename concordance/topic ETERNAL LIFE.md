@@ -1,0 +1,5 @@
+
+**ETERNAL LIFE**
+
+→ See [[topic LIFE|LIFE EVERLASTING]]
+

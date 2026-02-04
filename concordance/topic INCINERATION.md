@@ -1,0 +1,5 @@
+
+**INCINERATION**
+
+→ See [[topic CREMATION|CREMATION]]
+

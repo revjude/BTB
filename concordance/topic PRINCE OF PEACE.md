@@ -1,0 +1,5 @@
+
+**PRINCE OF PEACE**
+
+→ See [[topic JESUS, THE CHRIST|JESUS]]
+

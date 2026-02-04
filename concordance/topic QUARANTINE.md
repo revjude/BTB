@@ -1,0 +1,5 @@
+
+**QUARANTINE**
+
+→ See [[topic SANITATION|SANITATION, QUARANTINE]]
+

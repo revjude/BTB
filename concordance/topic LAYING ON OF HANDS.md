@@ -1,0 +1,5 @@
+
+**LAYING ON OF HANDS**
+
+→ See [[topic HAND|HANDS, IMPOSITION OF]]
+

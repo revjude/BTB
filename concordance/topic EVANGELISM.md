@@ -1,0 +1,7 @@
+
+**EVANGELISM**
+
+→ See [[topic MINISTER, CHRISTIAN|MINISTERS, DUTIES OF]]
+
+→ See [[topic ZEAL, RELIGIOUS|ZEAL]]
+

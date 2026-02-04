@@ -1,0 +1,5 @@
+
+**CONSCIENTIOUSNESS**
+
+→ See [[topic INTEGRITY|INTEGRITY]]
+

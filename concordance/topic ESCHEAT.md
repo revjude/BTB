@@ -1,0 +1,5 @@
+
+**ESCHEAT**
+
+→ See [[topic CONFISCATION|CONFISCATION]]
+

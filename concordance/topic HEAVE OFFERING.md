@@ -1,0 +1,5 @@
+
+**HEAVE OFFERING**
+
+→ See [[topic OFFERINGS|OFFERINGS]]
+

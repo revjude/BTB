@@ -1,0 +1,5 @@
+
+**UPRIGHTNESS**
+
+→ See [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]
+

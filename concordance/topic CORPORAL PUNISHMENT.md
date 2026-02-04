@@ -1,0 +1,5 @@
+
+**CORPORAL PUNISHMENT**
+
+→ See [[topic PUNISHMENT|PUNISHMENT]]
+

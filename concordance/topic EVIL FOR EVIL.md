@@ -1,0 +1,5 @@
+
+**EVIL FOR EVIL**
+
+→ See [[topic RETALIATION|RETALIATION]]
+

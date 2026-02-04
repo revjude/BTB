@@ -1,0 +1,5 @@
+
+**INSINCERITY**
+
+→ See [[topic HYPOCRISY|HYPOCRISY]]
+

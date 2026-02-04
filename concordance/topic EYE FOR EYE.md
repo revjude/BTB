@@ -1,0 +1,5 @@
+
+**EYE FOR EYE**
+
+→ See [[topic RETALIATION|RETALIATION]]
+

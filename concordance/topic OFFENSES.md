@@ -1,0 +1,5 @@
+
+**OFFENSES**
+
+→ See [[topic TEMPTATION|TEMPTATION]]
+

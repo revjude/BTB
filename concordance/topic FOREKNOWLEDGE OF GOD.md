@@ -1,0 +1,7 @@
+
+**FOREKNOWLEDGE OF GOD**
+
+→ See [[topic GOD|GOD, FOREKNOWLEDGE OF]]
+
+→ See [[topic GOD|GOD, WISDOM OF]]
+

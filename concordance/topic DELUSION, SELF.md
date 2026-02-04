@@ -1,0 +1,5 @@
+
+**DELUSION, SELF**
+
+→ See [[topic SELF-DELUSION|SELF-DELUSION]]
+

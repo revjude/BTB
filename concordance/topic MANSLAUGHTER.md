@@ -1,0 +1,9 @@
+
+**MANSLAUGHTER**
+
+→ See [[topic FRATRICIDE|FRATRICIDE]]
+
+→ See [[topic HOMICIDE|HOMICIDE]]
+
+→ See [[topic REGICIDE|REGICIDE]]
+

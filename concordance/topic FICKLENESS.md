@@ -1,0 +1,5 @@
+
+**FICKLENESS**
+
+→ See [[topic INSTABILITY|INSTABILITY]]
+

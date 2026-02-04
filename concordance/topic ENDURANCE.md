@@ -1,0 +1,5 @@
+
+**ENDURANCE**
+
+→ See [[topic PERSEVERANCE|PERSEVERANCE]]
+

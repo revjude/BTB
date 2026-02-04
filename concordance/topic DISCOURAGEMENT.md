@@ -1,0 +1,5 @@
+
+**DISCOURAGEMENT**
+
+→ See [[topic DESPONDENCY|DESPONDENCY]]
+

@@ -1,0 +1,5 @@
+
+**GOLDEN CANDLESTICK**
+
+→ See [[topic CANDLESTICK|CANDLESTICK]]
+

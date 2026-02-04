@@ -1,0 +1,7 @@
+
+**PENITENCE**
+
+→ See [[topic REPENTANCE|REPENTANCE]]
+
+→ See [[topic SIN|SIN, CONFESSION OF]]
+

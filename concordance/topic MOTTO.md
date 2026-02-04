@@ -1,0 +1,5 @@
+
+**MOTTO**
+
+→ See [[topic LEGENDS (INSCRIPTIONS)|LEGEND]]
+

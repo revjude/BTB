@@ -1,0 +1,5 @@
+
+**DIVINITY OF CHRIST**
+
+→ See [[topic JESUS, THE CHRIST|JESUS, DIVINITY OF]]
+

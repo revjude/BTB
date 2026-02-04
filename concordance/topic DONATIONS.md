@@ -1,0 +1,5 @@
+
+**DONATIONS**
+
+→ See [[topic LIBERALITY|LIBERALITY]]
+

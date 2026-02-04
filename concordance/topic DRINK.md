@@ -1,0 +1,13 @@
+
+**DRINK**
+
+→ INTOXICATING
+
+- See [[topic ABSTINENCE|ABSTINENCE, TOTAL]]
+
+→ See [[topic DRUNKARD|DRUNKARD]]
+
+→ See [[topic DRUNKENNESS|DRUNKENNESS]]
+
+→ See [[topic WINE|WINE]]
+

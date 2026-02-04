@@ -1,0 +1,5 @@
+
+**STOREHOUSES**
+
+→ See [[topic TREASURE-HOUSES|TREASURE-HOUSES]]
+

@@ -1,0 +1,7 @@
+
+**ADVENT**
+
+→ See [[topic JESUS, THE CHRIST|JESUS, SECOND COMING OF]]
+
+→ See [[topic MILLENNIUM|MILLENNIUM]]
+

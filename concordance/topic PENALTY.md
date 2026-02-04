@@ -1,0 +1,11 @@
+
+**PENALTY**
+
+→ See [[topic JUDGMENTS|JUDGMENTS]]
+
+→ See [[topic PUNISHMENT|PUNISHMENTS]]
+
+→ See [[topic SIN|SIN, PUNISHMENT OF]]
+
+→ See [[topic WICKED (PEOPLE)|WICKED, PUNISHMENT OF]]
+

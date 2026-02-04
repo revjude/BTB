@@ -1,0 +1,7 @@
+
+**OMNIPOTENCE**
+
+→ See [[topic GOD|GOD, OMNIPOTENT]]
+
+→ See [[topic JESUS, THE CHRIST|JESUS, OMNIPOTENCE OF]]
+

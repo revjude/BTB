@@ -1,0 +1,7 @@
+
+**WILLFULNESS**
+
+→ See [[topic OBDURACY (HARDNESS)|OBDURACY]]
+
+→ See [[topic SELF-WILL|SELF-WILL]]
+

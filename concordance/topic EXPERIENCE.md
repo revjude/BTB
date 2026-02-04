@@ -1,0 +1,9 @@
+
+**EXPERIENCE**
+
+→ Solomon's [[Eccl.1.2|Ec 1:2]]
+
+→ RELIGIOUS, RELATING OF
+
+- See [[topic TESTIMONY|TESTIMONY, RELIGIOUS]]
+

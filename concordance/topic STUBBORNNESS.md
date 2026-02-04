@@ -1,0 +1,5 @@
+
+**STUBBORNNESS**
+
+→ See [[topic OBDURACY (HARDNESS)|OBDURACY]]
+

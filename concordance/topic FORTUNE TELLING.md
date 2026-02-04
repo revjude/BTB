@@ -1,0 +1,5 @@
+
+**FORTUNE TELLING**
+
+→ See [[topic SORCERY|SORCERY]]
+

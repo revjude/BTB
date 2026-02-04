@@ -1,3 +1,6 @@
+
+# Get Started with the Bruhman Translator's Bible...
+
 Welcome to the Bruhman Translator's Bible! This guide will help you get oriented and start exploring.
 
 ## Quick Navigation
@@ -8,7 +11,11 @@ Welcome to the Bruhman Translator's Bible! This guide will help you get oriented
 - **[[John.1|John 1]]** - Start with the Gospel of John
 - **[[Ps.23|Psalm 23]]** - A familiar passage to see the features
 
-## How This Bible Works
+### **NEW**!! concordance search
+**Ctrl+O** PC (**Cmd+O** Mac) to launch the quick switcher where you can type: 'topic' + your topic of interest, to start in the topical concordance.
+
+
+# How This Bible Works
 
 ### Chapter View
 
@@ -37,16 +44,14 @@ Individual verses show you:
 - Full lexicon entries are included from Abbott-Smith, Brown-Driver-Briggs, and LSJ, with all references linked so you can develop a fuller understanding of how each word is used throughout the Bible and other ancient sources.
 - Location entries include embedded Google Maps when referring to specific places. To use this feature, obtain a [Google Maps API key](https://developers.google.com/maps/documentation/javascript), then use VS Code to find and replace `[GoogleAPIKey]` with your key in the TIPNR directory within the lexicon folder.
 
-## New to Obsidian?
+# New to Obsidian?
 
 - **Links** - Click any `[[link]]` to navigate
 - **Back button** - Use Alt/Opt + ← to go back
 - **Search** - Find anything (Ctrl/Cmd + Shift + F)
 
 ## Coming soon...
-- Nave's Topical Concordance
-- International Standard Bible Encyclopedia
-- Frontmatter integration for use in **Obsidian Bases**
+- Pericope translation segments
 
 ## Need Help?
 

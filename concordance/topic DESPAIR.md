@@ -1,0 +1,5 @@
+
+**DESPAIR**
+
+→ See [[topic DESPONDENCY|DESPONDENCY]]
+

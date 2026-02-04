@@ -1,0 +1,13 @@
+
+**INTEMPERANCE**
+
+→ See [[topic DRUNKARD|DRUNKARDS]]
+
+→ See [[topic DRUNKENNESS|DRUNKENNESS]]
+
+→ See [[topic WINE|WINE]]
+
+→ See [[topic ABSTINENCE|ABSTINENCE]]
+
+→ See [[topic TEMPERANCE|TEMPERANCE]]
+

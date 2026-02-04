@@ -1,0 +1,5 @@
+
+**GREED**
+
+→ See [[topic COVETOUSNESS|COVETOUSNESS]]
+

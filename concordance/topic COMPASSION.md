@@ -1,0 +1,11 @@
+
+**COMPASSION**
+
+→ OF GOD
+
+- See [[topic GOD|GOD, MERCY OF]]
+
+→ OF CHRIST
+
+- See [[topic JESUS, THE CHRIST|JESUS, COMPASSION OF]]
+

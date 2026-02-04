@@ -1,0 +1,5 @@
+
+**JURISDICTION**
+
+→ See [[topic CHURCH AND STATE|CHURCH AND STATE]]
+

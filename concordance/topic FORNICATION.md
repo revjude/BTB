@@ -1,0 +1,7 @@
+
+**FORNICATION**
+
+→ See [[topic ADULTERY|ADULTERY]]
+
+→ See [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]
+

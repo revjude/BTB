@@ -1,0 +1,7 @@
+
+**MANSLAYER**
+
+→ See [[topic HOMICIDE|HOMICIDE]]
+
+→ See [[topic CITIES OF REFUGE|CITIES OF REFUGE]]
+

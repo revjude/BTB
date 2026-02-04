@@ -1,0 +1,7 @@
+
+**OBLIQUITY (DEVIATION)**
+
+→ (Moral)
+
+→ See [[topic DEPRAVITY OF MAN|DEPRAVITY]]
+

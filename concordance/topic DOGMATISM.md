@@ -1,0 +1,5 @@
+
+**DOGMATISM**
+
+→ See [[topic COMMANDMENTS|COMMANDMENTS, OF MEN]]
+

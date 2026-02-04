@@ -1,0 +1,5 @@
+
+**TYRANNY**
+
+→ See [[topic GOVERNMENT|GOVERNMENT, TYRANNICAL]]
+

@@ -1,0 +1,5 @@
+
+**CAPITAL PUNISHMENT**
+
+→ See [[topic PUNISHMENT|PUNISHMENT]]
+

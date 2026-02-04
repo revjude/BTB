@@ -1,0 +1,9 @@
+
+**ECONOMY**
+
+→ POLITICAL
+
+- See [[topic ECONOMICS|ECONOMICS]]
+
+- See [[topic GOVERNMENT|GOVERNMENT]]
+

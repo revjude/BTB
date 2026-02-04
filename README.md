@@ -34,6 +34,12 @@ This work builds on the efforts of many scholars, theologians, and scribes whose
 
 ![Chapter View](/lexicon/views/SQS.PNG)
 
+#### Topical Concordance
+Search over 20,000 topics and sub-topics
+![Chapter View](/lexicon/views/Concordance1.PNG)
+More than 100,000 cross-references
+![Chapter View](/lexicon/views/Concordance2.PNG)
+
 ## Features
 
 - **Chapter View**: Full chapters from the majority text with Jesus' words in red letters, pericope headings with cross-references, and over 500,000 footnotes
@@ -42,6 +48,7 @@ This work builds on the efforts of many scholars, theologians, and scribes whose
 - **Lexicon Links**: Each word links to its BTB lexicon entry, compiled from multiple sources and disambiguated (e.g., clicking "Mary" shows the entry for that specific person, not just the general name)
 - **Scripture Cross-References**: Embedded references show where verses quote, reference, or allude to other passages—helpful when studying New Testament citations of the Septuagint
 - **Translator's Notes**: Notes from the Translator's Amalgamated Hebrew Old Testament and Greek New Testament explain word order differences, variant spellings and definitions, and textual variations across sources
+- **Nave's Topical Concordance**: Press the hotkey to search the concordance of more than 20,000 topics and sub-stopics with links to over 100,000 passages
 
 ## Installation
 

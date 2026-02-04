@@ -1,0 +1,5 @@
+
+**SAVIOUR (SAVIOR)**
+
+→ See [[topic JESUS, THE CHRIST|JESUS, SAVIOUR]]
+

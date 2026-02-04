@@ -1,0 +1,5 @@
+
+**TOTAL ABSTINENCE**
+
+→ See [[topic ABSTINENCE|ABSTINENCE]]
+

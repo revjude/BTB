@@ -1,0 +1,5 @@
+
+**SPIRITUAL DILIGENCE**
+
+→ See [[topic ZEAL, RELIGIOUS|ZEAL]]
+

@@ -1,0 +1,7 @@
+
+**CONSECRATED THINGS**
+
+→ See [[topic FIRSTBORN|FIRSTBORN]]
+
+→ See [[topic FIRST FRUITS|FIRSTFRUITS]]
+

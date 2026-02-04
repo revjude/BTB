@@ -1,0 +1,7 @@
+
+**THANKSGIVING**
+
+→ See [[topic PRAISE|PRAISE]]
+
+→ See [[topic THANKFULNESS|THANKFULNESS]]
+

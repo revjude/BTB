@@ -1,0 +1,5 @@
+
+**HUMAN SACRIFICE**
+
+→ See [[topic OFFERINGS|OFFERING, HUMAN]]
+

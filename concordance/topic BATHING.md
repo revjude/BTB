@@ -1,0 +1,7 @@
+
+**BATHING**
+
+→ See [[topic ABLUTION|ABLUTION]]
+
+→ See [[topic PURIFICATION|PURIFICATION]]
+

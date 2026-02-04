@@ -1,0 +1,5 @@
+
+**NEW CREATURE**
+
+→ See [[topic REGENERATION|REGENERATION]]
+

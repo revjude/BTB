@@ -1,0 +1,5 @@
+
+**IFS, OF THE BIBLE**
+
+→ See [[topic BLESSING|BLESSINGS, CONTINGENT]]
+

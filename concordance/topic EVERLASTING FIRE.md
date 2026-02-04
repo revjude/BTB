@@ -1,0 +1,5 @@
+
+**EVERLASTING FIRE**
+
+→ See [[topic FIRE|FIRE, EVERLASTING]]
+

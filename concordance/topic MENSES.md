@@ -1,0 +1,5 @@
+
+**MENSES**
+
+→ See [[topic MENSTRUATION|MENSTRUATION]]
+

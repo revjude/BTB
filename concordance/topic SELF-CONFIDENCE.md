@@ -1,0 +1,5 @@
+
+**SELF-CONFIDENCE**
+
+→ See [[topic CONFIDENCE|CONFIDENCE, FALSE]]
+

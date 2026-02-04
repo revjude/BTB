@@ -1,0 +1,5 @@
+
+**LAZINESS**
+
+→ See [[topic SLOTHFULNESS|SLOTHFULNESS]]
+

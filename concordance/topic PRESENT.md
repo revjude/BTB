@@ -1,0 +1,5 @@
+
+**PRESENT**
+
+→ See [[topic GIFTS FROM GOD|GIFTS FROM GOD]]
+

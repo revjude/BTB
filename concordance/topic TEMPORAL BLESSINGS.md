@@ -1,0 +1,5 @@
+
+**TEMPORAL BLESSINGS**
+
+→ See [[topic BLESSING|BLESSINGS]]
+

@@ -1,0 +1,5 @@
+
+**EVIL SPEAKING**
+
+→ See [[topic SPEAKING|SPEAKING, EVIL]]
+

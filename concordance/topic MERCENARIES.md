@@ -1,0 +1,5 @@
+
+**MERCENARIES**
+
+→ See [[topic SOLDIERS|SOLDIERS]]
+

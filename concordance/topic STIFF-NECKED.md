@@ -1,0 +1,7 @@
+
+**STIFF-NECKED**
+
+→ See [[topic IMPENITENCE|IMPENITENT]]
+
+→ See [[topic OBDURACY (HARDNESS)|OBDURACY]]
+

@@ -1,0 +1,7 @@
+
+**OMNISCIENCE**
+
+→ See [[topic GOD|GOD, OMNISCIENT]]
+
+→ See [[topic JESUS, THE CHRIST|JESUS, OMNISCIENCE OF]]
+

@@ -1,0 +1,5 @@
+
+**FIRSTLING**
+
+→ See [[topic FIRSTBORN|FIRSTBORN]]
+

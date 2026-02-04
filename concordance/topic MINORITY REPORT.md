@@ -1,0 +1,5 @@
+
+**MINORITY REPORT**
+
+→ See [[topic REPORTS|REPORTS]]
+
